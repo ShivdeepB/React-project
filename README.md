@@ -31,8 +31,9 @@ The portfolio is built using the following key technologies:
 
 - React.js
 - Node.js
-- [Additional Tech 2]
-- ...
+- Next.js
+- MongoDb
+- Mysql
 
 ## Setup
 
@@ -50,8 +51,8 @@ Once the setup is complete, you can explore the projects on your local machine b
 
 If you have any questions, feedback, or would like to connect, feel free to reach out:
 
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: sbisurkar@hawk.iit.edu
+- LinkedIn: https://www.linkedin.com/in/shivdeep-bisurkar/
 
 Thank you for visiting my React Portfolio! I hope you enjoy exploring my projects.
 # React-project
