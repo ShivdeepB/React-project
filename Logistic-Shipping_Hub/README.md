@@ -33,23 +33,19 @@ The React app will run on port 3000.
 ## Note
 1. Make sure to follow the specified sequence for starting the backend servers first (MySQL and MongoDB) and then the frontend server.
 2. If you are navigating to Data Analystics tab in the application, it requires to have some data in database. For this if you havent placed any reviews, orders, etc. You can use the test data files given. i.e 
-            import reviews.reviews.json 
-in your mongodb compass under reviews db. Test data for mysql is already in test.sql
+            import reviews.reviews.json in your mongodb compass under reviews db. Test data for mysql is already in test.sql
 
 ## Answers to questions 
 1. How many total lines of code written?
+   
 Ans. frontend: 8457 lines
 backend: 753
 total: 9210
 
                              
-2. What are the features  (including required assignments features) implemented
-and functional in your project?
-Ans. Assignment features implemented:
-
-
-
-Below other than assignment functionalities implemented:                                    
+2. What are the features implemented and functional in your project?
+Ans.
+Below functionalities implemented:                                    
 User Account/Profile/Transaction management & MySQL
 Recommender --using open AI and MySQL db integration (used orders and location table from mysql to integrate with open AI)
 Analytics & Visual Reports                                
@@ -57,15 +53,3 @@ Reviews & Trending & MongoDB
 Auto-Complete Search feature --implemented for order search
 Google MAPS - Near ME search feature and also for tracking shipments
 
-
-
- 
-
-
-                             
-3. What are the Assignments features that are NOT implemented?
-All Assignment's features are implemented
-
-                             
-4. What are the Assignments features that are attempted but NOT functional?
-All features are functional
