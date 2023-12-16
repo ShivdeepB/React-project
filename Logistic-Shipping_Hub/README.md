@@ -44,6 +44,7 @@ total: 9210
 
                              
 2. What are the features implemented and functional in your project?
+
 Ans.
 Below functionalities implemented:                                    
 User Account/Profile/Transaction management & MySQL
