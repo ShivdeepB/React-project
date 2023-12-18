@@ -47,10 +47,10 @@ total: 9210
 
 Ans.
 Below functionalities implemented:                                    
-User Account/Profile/Transaction management & MySQL
-Recommender --using open AI and MySQL db integration (used orders and location table from mysql to integrate with open AI)
-Analytics & Visual Reports                                
-Reviews & Trending & MongoDB
-Auto-Complete Search feature --implemented for order search
-Google MAPS - Near ME search feature and also for tracking shipments
+1. User Account/Profile/Transaction management & MySQL
+2. Recommender --using open AI and MySQL db integration (used orders and location table from mysql to integrate with open AI)
+3. Analytics & Visual Reports
+4. Reviews & Trending & MongoDB
+5. Auto-Complete Search feature --implemented for order search
+6. Google MAPS - Near ME search feature and also for tracking shipments
 
