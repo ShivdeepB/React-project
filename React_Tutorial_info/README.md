@@ -1,4 +1,4 @@
-# React Portfolio
+# React Tutorials
 
 Welcome to my React Portfolio! This repository showcases my work and projects developed using React.js. Below, you'll find information on how to navigate through the portfolio and explore the various components.
 
