@@ -1,6 +1,9 @@
-let numbers = [1, 2, 3];
+import { log } from "console";
 
-const ans=numbers.forEach(function(number) {
-  return number*2;
-});
-console.log(numbers);
+
+
+const b=document.querySelector('.parent');
+console.log(b.children[0].children[0].innerHTML);
+
+console.log("NODES: ",b.childNodes);
+
