@@ -6,8 +6,15 @@
 	"image": "mcr.microsoft.com/devcontainers/javascript-node:1-20-bullseye",
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/prettier:1": {}
-	}
-
+	},
+	"portsAttributes":{
+		"5173":{
+			"label":"Vite port",
+			"onAutoForward": "openPreview"
+		}
+	},
+	"forwardPorts":[5173]
+	}	
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 
